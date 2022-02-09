@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "729532157597",
+    "project_id": "halal-b0c18",
+    "storage_bucket": "halal-b0c18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729532157597:android:4696b547e45581927b0e74",
+        "android_client_info": {
+          "package_name": "com.criticalbl7alal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729532157597-ifuqppvrd8162ki6cn60c4vjbn20mb0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZy3h7UU6Z_O0_WD4C5GBGOfAYM1mfgns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729532157597-ifuqppvrd8162ki6cn60c4vjbn20mb0a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "729532157597-aucd5bndnt4ogvgtnqkdl8aibtlh5u8m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.criticalbl7alal"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729532157597:android:d6d3ac7d610fafab7b0e74",
+        "android_client_info": {
+          "package_name": "com.example.halal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729532157597-ifuqppvrd8162ki6cn60c4vjbn20mb0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZy3h7UU6Z_O0_WD4C5GBGOfAYM1mfgns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729532157597-ifuqppvrd8162ki6cn60c4vjbn20mb0a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "729532157597-aucd5bndnt4ogvgtnqkdl8aibtlh5u8m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.halal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
